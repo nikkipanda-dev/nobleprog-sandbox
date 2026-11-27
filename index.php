@@ -2,7 +2,7 @@
 
 class Hello
 {
-    public function __construct()
+    public function __construct(
     {
         echo "Hello world";
     }
